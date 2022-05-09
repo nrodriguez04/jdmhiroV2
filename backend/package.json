@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend dependencies",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrodriguez04/jdmhiroV2.git"
+  },
+  "keywords": [
+    "JDM",
+    "Web3",
+    "Solidity",
+    "Ecommerce"
+  ],
+  "author": "Nick Rodriguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nrodriguez04/jdmhiroV2/issues"
+  },
+  "homepage": "https://github.com/nrodriguez04/jdmhiroV2#readme"
+}
